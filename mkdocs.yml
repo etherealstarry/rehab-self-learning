@@ -1,12 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-康复专业自学指南 - MkDocs 配置文件
-参考CS自学指南（csdiy.wiki）的结构设计
-"""
-
 site_name: 康复专业自学指南
-site_url: https://github.com/etherealstarry/rehab-self-learning
+site_url: https://etherealstarry.github.io/rehab-self-learning/
 site_description: 康复专业系统自学资源汇总，涵盖康复治疗学、运动康复、物理治疗等领域
 site_author: EtherealStarry
 
@@ -97,8 +90,6 @@ nav:
 
 plugins:
   - search
-  - sitemap:
-      pretty_urls: true
   - minify:
       minify_html: true
 
@@ -136,4 +127,4 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright © 2026 EtherealStarry
+copyright: "Copyright © 2026 EtherealStarry"
