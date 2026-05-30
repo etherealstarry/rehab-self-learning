@@ -1,0 +1,147 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+康复专业自学指南 - MkDocs 配置文件
+参考CS自学指南（csdiy.wiki）的结构设计
+"""
+
+site_name: 康复专业自学指南
+site_url: https://github.com/etherealstarry/rehab-self-learning
+site_description: 康复专业系统自学资源汇总，涵盖康复治疗学、运动康复、物理治疗等领域
+site_author: EtherealStarry
+
+repo_url: https://github.com/etherealstarry/rehab-self-learning
+repo_name: etherealstarry/rehab-self-learning
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换浅色模式
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/heart-pulse
+
+nav:
+  - 首页: index.md
+  - 使用指南:
+      - 适用人群: intro/target_audience.md
+      - 如何使用本指南: intro/how_to_use.md
+      - 学习建议: intro/learning_tips.md
+  - 学习路线图:
+      - 概览: roadmap/overview.md
+      - 零基础入门路径: roadmap/beginner.md
+      - 康复专业学生路径: roadmap/student.md
+      - 转行者路径: roadmap/career_changer.md
+      - 临床康复师进阶路径: roadmap/clinician.md
+  - 基础医学课程:
+      - 解剖学: basics/anatomy.md
+      - 生理学: basics/physiology.md
+      - 病理学: basics/pathology.md
+      - 生物力学: basics/biomechanics.md
+      - 运动学: basics/kinesiology.md
+      - 心理学基础: basics/psychology.md
+  - 康复核心课程:
+      - 康复医学概论: core/rehab_intro.md
+      - 康复评定技术: core/assessment.md
+      - 物理治疗学: core/physical_therapy.md
+      - 作业治疗学: core/occupational_therapy.md
+      - 言语治疗学: core/speech_therapy.md
+      - 康复工程学: core/rehab_engineering.md
+      - 中国传统康复学: core/tcm_rehab.md
+  - 临床实践:
+      - 骨科康复: clinical/orthopedic.md
+      - 神经康复: clinical/neurological.md
+      - 心肺康复: clinical/cardiopulmonary.md
+      - 儿童康复: clinical/pediatric.md
+      - 老年康复: clinical/geriatric.md
+      - 运动损伤康复: clinical/sports_injury.md
+      - 疼痛管理: clinical/pain_management.md
+  - 进阶方向:
+      - 机器人康复: advanced/robotics.md
+      - VR/AR康复: advanced/vr_ar.md
+      - 脑机接口与康复: advanced/bci.md
+      - 运动神经科学: advanced/motor_neuroscience.md
+      - 康复大数据与AI: advanced/ai_rehab.md
+  - 好书推荐:
+      - 中文教材: books/chinese_books.md
+      - 英文原版: books/english_books.md
+      - 参考书目: books/reference_books.md
+  - 考证指南:
+      - 康复治疗师资格证: certification/therapist.md
+      - 其他相关证书: certification/other_certs.md
+  - 资源汇总:
+      - 在线课程平台: resources/online_courses.md
+      - 学术资源: resources/academic.md
+      - 临床指南: resources/clinical_guidelines.md
+      - 社区与论坛: resources/community.md
+  - 贡献指南: CONTRIBUTING.md
+  - 关于本项目: about.md
+
+plugins:
+  - search
+  - sitemap:
+      pretty_urls: true
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/etherealstarry
+    - icon: fontawesome/brands/zhihu
+      link: https://www.zhihu.com/people/etherealstarry
+  version:
+    provider: mike
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: Copyright © 2026 EtherealStarry
