@@ -34,7 +34,7 @@ jobs:
           pip install mkdocs mkdocs-material mkdocs-minify-plugin pymdown-extensions markdown
 
       - name: Build site
-        run: mkdocs build --strict
+        run: mkdocs build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

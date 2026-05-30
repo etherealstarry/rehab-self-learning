@@ -85,7 +85,7 @@ nav:
       - 社区与论坛: resources/community.md
   - 考证指南:
       - 康复治疗师资格证: certification/rehab_certification.md
-  - 贡献指南: CONTRIBUTING.md
+  - 贡献指南: contributing.md
   - 关于本项目: about.md
 
 plugins:
