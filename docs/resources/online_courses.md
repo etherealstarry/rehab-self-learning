@@ -338,8 +338,8 @@
 
 1. **选择平台开始学习**：
    - [零基础入门路径](../roadmap/beginner.md)
-   - [基础医学课程](../basics/)
-   - [康复核心课程](../core/)
+   - [基础医学课程](../basics/anatomy.md)
+   - [康复核心课程](../core/rehab_medicine_intro.md)
 
 2. **探索更多资源**：
    - [好书推荐](../books/chinese_books.md)

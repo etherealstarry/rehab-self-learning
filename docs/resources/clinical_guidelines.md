@@ -285,8 +285,8 @@
 
 2. **开始学习**：
    - [零基础入门路径](../roadmap/beginner.md)
-   - [基础医学课程](../basics/)
-   - [康复核心课程](../core/)
+   - [基础医学课程](../basics/anatomy.md)
+   - [康复核心课程](../core/rehab_medicine_intro.md)
 
 3. **参与社区**：
    - 加入康复专业社区
