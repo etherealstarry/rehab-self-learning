@@ -152,4 +152,4 @@
 
 **🎉 开始你的康复专业自学之旅吧！**
 
-[👉 立即查看使用指南](docs/intro/target_audience.md)
+[👉 立即查看使用指南](docs/intro/target_audience.md)# 触发重新部署
