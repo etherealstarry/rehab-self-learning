@@ -27,11 +27,11 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.13"
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material mkdocs-minify-plugin pymdown-extensions markdown
+          pip install mkdocs==1.6.1 mkdocs-material==9.5.49 mkdocs-minify-plugin==0.8.1 pymdown-extensions==10.11.2 markdown==3.7
 
       - name: Build site
         run: mkdocs build
