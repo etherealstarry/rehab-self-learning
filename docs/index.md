@@ -51,16 +51,16 @@
 本指南的核心内容分为六大模块：
 
 1. **[基础医学课程](basics/anatomy.md)**：解剖学、生理学、病理学、生物力学等
-2. **[康复核心课程](core/rehab_intro.md)**：康复评定、物理治疗、作业治疗、言语治疗等
+2. **[康复核心课程](core/rehab_medicine_intro.md)**：康复评定、物理治疗、作业治疗、言语治疗等
 3. **[临床实践](clinical/orthopedic.md)**：骨科康复、神经康复、心肺康复、运动损伤康复等
-4. **[进阶方向](advanced/robotics.md)**：机器人康复、VR/AR康复、脑机接口、康复AI等
+4. **[进阶方向](advanced/robotics_rehab.md)**：机器人康复、VR/AR康复、脑机接口、康复AI等
 5. **[好书推荐](books/chinese_books.md)**：中外经典教材和参考书
 6. **[考证指南](certification/therapist.md)**：康复治疗师资格证等职业证书
 
 ### 🔍 第三步：利用资源汇总
 
 - **[在线课程平台](resources/online_courses.md)**：中国大学MOOC、Coursera、edX 等
-- **[学术资源](resources/academic.md)**：PubMed、知网、康复期刊等
+- **[学术资源](resources/academic_resources.md)**：PubMed、知网、康复期刊等
 - **[临床指南](resources/clinical_guidelines.md)**：WHO、中国康复医学会等权威指南
 - **[社区与论坛](resources/community.md)**：康复从业者交流平台
 
@@ -131,7 +131,7 @@ graph TD
 
 贡献方式：
 
-1. 📝 **补充新课程**：在对应章节下提交 Pull Request，按照 [贡献指南](CONTRIBUTING.md) 的格式添加新课程
+1. 📝 **补充新课程**：在对应章节下提交 Pull Request，按照 [贡献指南](contributing.md) 的格式添加新课程
 2. 🐛 **修正错误**：发现错误或有改进建议，欢迎提交 Issue 或 Pull Request
 3. 💬 **参与讨论**：在 Issue 区分享学习心得、提问、交流经验
 4. ⭐ **推广项目**：如果本指南对你有帮助，请给项目点个 Star，让更多人看到

@@ -80,7 +80,7 @@ rehab-self-learning/
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-如果你想成为贡献者，请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)！
+如果你想成为贡献者，请阅读 [贡献指南](contributing.md)！
 
 ---
 

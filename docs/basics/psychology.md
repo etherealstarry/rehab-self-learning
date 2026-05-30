@@ -335,7 +335,7 @@
 学完《心理学基础》后，你可以选择以下方向继续学习：
 
 1. **基础医学课程**：已完成所有基础医学课程 ✅
-2. **康复核心课程**：[康复医学概论](rehab_medicine_intro.md) → [物理治疗学](physical_therapy.md)
+2. **康复核心课程**：[康复医学概论](../core/rehab_medicine_intro.md) → [物理治疗学](../core/physical_therapy.md)
 3. **临床实践模块**：选择感兴趣的方向（骨科康复、神经康复等）
 
 ---

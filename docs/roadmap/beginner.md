@@ -152,7 +152,7 @@
 
 #### 2. 考证准备
 
-- [康复治疗师资格证](certification/therapist.md)
+- [康复治疗师资格证](../certification/therapist.md)
 - 其他相关证书
 
 ---
@@ -257,7 +257,7 @@
 
 - [查看康复专业学生路径](student.md)（如果你是在校学生）
 - [查看转行者路径](career_changer.md)（如果你有其他专业背景）
-- [立即开始学习解剖学 →](basics/anatomy.md)
+- [立即开始学习解剖学 →](../basics/anatomy.md)
 
 ---
 

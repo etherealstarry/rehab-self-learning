@@ -30,14 +30,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install mkdocs==1.6.1 mkdocs-material==9.5.49 mkdocs-minify-plugin==0.8.1 pymdown-extensions==10.11.2 markdown==3.7
+        run: pip install mkdocs mkdocs-material
 
       - name: Build site
         run: mkdocs build
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

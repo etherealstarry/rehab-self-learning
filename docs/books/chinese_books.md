@@ -237,8 +237,8 @@
 
 ## 🔗 相关资源
 
-- [英文原版教材 →](../english_books.md)
-- [参考书目 →](../reference_books.md)
+- [英文原版教材 →](../books/english_books.md)
+- [参考书目 →](../books/reference_books.md)
 - [在线课程平台 →](../resources/online_courses.md)
 
 ---

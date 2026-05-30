@@ -320,7 +320,7 @@
 学完《心肺康复》后，你可以选择以下方向继续学习：
 
 1. **临床实践模块**：[神经康复](neurological.md) → [骨科康复](orthopedic.md) → [儿童康复](pediatric.md)
-2. **进阶方向**：[机器人康复](../advanced/robotics.md) → [VR康复](../advanced/vr_rehab.md)
+2. **进阶方向**：[机器人康复](../advanced/robotics_rehab.md) → [VR/AR康复](../advanced/vr_ar_rehab.md)
 3. **资源汇总**：[好书推荐](../books/chinese_books.md) → [在线课程平台](../resources/online_courses.md)
 
 ---
