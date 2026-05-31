@@ -36,7 +36,7 @@
 #### 1. 解剖学（3-6 个月）⭐⭐⭐⭐⭐
 
 - **推荐课程**：
-  - [中国大学 MOOC：系统解剖学](https://www.icourse163.org/)（待补充具体链接）
+  - [中国大学 MOOC：系统解剖学（中国医科大学）](https://www.icourse163.org/course/CMU-1002095001)
   - [Grant's Atlas of Anatomy](https://www.amazon.com/)（参考书）
   - [3D 解剖软件](https://www.visiblebody.com/)（辅助学习）
 - **学习重点**：骨骼、肌肉、神经、血管系统的解剖结构
@@ -45,14 +45,14 @@
 #### 2. 生理学（3-6 个月）⭐⭐⭐⭐⭐
 
 - **推荐课程**：
-  - [中国大学 MOOC：生理学](https://www.icourse163.org/)（待补充）
+  - [中国大学 MOOC：生理学（人卫版）](https://www.icourse163.org/course/detail.htm?cid=1002123019)
   - 《生理学》教材（人卫版）
 - **学习重点**：细胞生理、神经生理、心血管生理、呼吸生理、运动生理
 
 #### 3. 生物力学（2-4 个月）⭐⭐⭐⭐
 
 - **推荐课程**：
-  - [Coursera：Biomechanics](https://www.coursera.org/)（待补充）
+  - [Coursera：Biomechanics](https://www.coursera.org/)（英文，Georgia Institute of Technology）
   - 《生物力学》教材
 - **学习重点**：力学基础、运动学、动力学、组织力学
 
@@ -81,20 +81,20 @@
 #### 1. 康复医学概论（2-3 个月）⭐⭐⭐⭐⭐
 
 - **推荐课程**：
-  - [中国大学 MOOC：康复医学](https://www.icourse163.org/)（待补充）
+  - [中国大学 MOOC：康复医学（南方医科大学）](https://www.icourse163.org/learn/SMU-1463007164)
   - 《康复医学》教材（人卫版）
 - **学习重点**：康复医学的定义、历史、基本原则、康复团队
 
 #### 2. 康复评定技术（3-6 个月）⭐⭐⭐⭐⭐
 
 - **推荐课程**：
-  - [中国大学 MOOC：康复功能评定](https://www.icourse163.org/)（待补充）
+  - [中国大学 MOOC：康复功能评定（山东中医药大学）](https://www.icourse163.org/course/BZYXY-1207453801)
 - **学习重点**：肌力评定、关节活动度评定、平衡协调评定、ADL 评定
 
 #### 3. 物理治疗学（6-12 个月）⭐⭐⭐⭐⭐
 
 - **推荐课程**：
-  - [中国大学 MOOC：物理治疗学](https://www.icourse163.org/)（待补充）
+  - [中国大学 MOOC：物理治疗学（首都医科大学）](https://www.icourse163.org/course/CCMU-1002426001)
   - 《物理治疗学》教材（燕铁斌主编）
 - **学习重点**：
   - 运动疗法：关节活动训练、肌力训练、平衡训练、步态训练

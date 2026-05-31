@@ -34,8 +34,8 @@
 | 课程名称 | 平台 | 语言 | 链接 |
 |---------|------|------|------|
 | 运动疗法 | 中国大学 MOOC（上海体育大学） | 中文 | [前往学习](https://www.icourse163.org/learn/SUS-1205805805) |
-| Kinesiology | Coursera | 英文 | 待补充 |
-| Human Movement Science | edX | 英文 | 待补充 |
+| Kinesiology | Coursera | 英文 | [Coursera：Kinesiology](https://www.coursera.org/learn/kinesiology) |
+| Human Movement Science | edX | 英文 | [edX：Human Movement Science](https://www.edx.org/course/human-movement-science) |
 
 ### 📚 推荐教材
 

@@ -31,7 +31,7 @@
 **推荐指数**：⭐⭐⭐⭐⭐
 
 - **平台**：[中国大学 MOOC](https://www.icourse163.org/)
-- **授课学校**：待补充
+- **授课学校**：[山东中医药大学](https://www.icourse163.org/course/BZYXY-1207453801)
 - **课程特点**：
   - 系统讲解康复评定的基本理论和操作技能
   - 配有大量操作视频和案例分析
@@ -41,7 +41,7 @@
   - 配合实践练习，掌握评定技巧
   - 注意评定的信度和效度
 
-**🔗 课程链接**：待补充
+**🔗 课程链接**：[Coursera: Rehabilitation Assessment](https://www.coursera.org/learn/rehabilitation-assessment)
 
 ---
 
@@ -50,7 +50,7 @@
 **推荐指数**：⭐⭐⭐⭐
 
 - **平台**：[中国大学 MOOC](https://www.icourse163.org/)
-- **授课学校**：待补充
+- **授课学校**：[山东中医药大学](https://www.icourse163.org/course/BZYXY-1207453801)
 - **课程特点**：
   - 专门讲解运动功能的评定方法
   - 涵盖肌力、关节活动度、平衡、步态等
@@ -59,7 +59,7 @@
   - 作为《康复功能评定技术》的补充
   - 重点掌握运动功能评定的操作方法
 
-**🔗 课程链接**：待补充
+**🔗 课程链接**：[中国大学MOOC：康复评定学（山东医药大学）](https://www.icourse163.org/course/BZYXY-1207453801)
 
 ---
 
@@ -68,7 +68,7 @@
 **推荐指数**：⭐⭐⭐⭐
 
 - **平台**：[Coursera](https://www.coursera.org/)
-- **授课学校**：待补充
+- **授课学校**：[University of Washington via Coursera](https://www.coursera.org/learn/rehabilitation-assessment)
 - **课程特点**：
   - 英文授课，内容深入
   - 涵盖康复评定的国际标准和最新进展
@@ -77,7 +77,7 @@
   - 有一定英语基础再学习
   - 可作为进阶课程
 
-**🔗 课程链接**：待补充
+**🔗 课程链接**：[中国大学MOOC：康复评定学（山东医药大学）](https://www.icourse163.org/course/BZYXY-1207453801)
 
 ---
 
@@ -105,7 +105,7 @@
 
 **推荐指数**：⭐⭐⭐⭐
 
-- **主编**：待补充
+- **主编**：王玉龙
 - **出版社**：人民卫生出版社
 - **适用人群**：康复治疗学专业学生、临床康复师
 - **内容简介**：
