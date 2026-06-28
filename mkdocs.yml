@@ -58,12 +58,6 @@ nav:
       - 生物力学: basics/biomechanics.md
       - 运动学: basics/kinesiology.md
       - 心理学基础: basics/psychology.md
-  - 基础医学课程:
-      - 解剖学: basics/anatomy.md
-      - 生理学: basics/physiology.md
-      - 病理学: basics/pathology.md
-      - 生物力学: basics/biomechanics.md
-      - 心理学基础: basics/psychology.md
   - 康复核心课程:
       - 康复医学概论: core/rehab_medicine_intro.md
       - 康复评定技术: core/assessment.md
@@ -92,11 +86,14 @@ nav:
       - 参考书目: books/reference_books.md
   - 资源汇总:
       - 在线课程平台: resources/online_courses.md
+      - 免费学习资源汇总: resources/free_pdfs.md
+      - 考题题库汇总: resources/question_bank.md
       - 临床实践指南: resources/clinical_guidelines.md
       - 学术资源: resources/academic_resources.md
       - 社区与论坛: resources/community.md
   - 考证指南:
       - 康复治疗师资格证: certification/therapist.md
+      - 资格考试备考指南: certification/exam_guide.md
       - 其他相关证书: certification/other_certs.md
   - 贡献指南: contributing.md
   - 关于本项目: about.md
